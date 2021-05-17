@@ -1,7 +1,7 @@
 
 django~=3.0.7
 
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 django-restful-admin==1.1.0
 django-split-settings==1.0.1
 django-cors-headers==3.4.0
